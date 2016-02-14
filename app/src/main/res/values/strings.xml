@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PolarPlot1.0</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sbtn_newplot">Crear Grafica</string>
+    <string name="stparam">prueba</string>
+    <string name="st_param">param1</string>
+    <string name="btn_back">Atras</string>
+    <string name="btn_follow">siguiente</string>
+    <string name="intro_fragment">Introduce el valor de n:</string>
+    <string name="s_n">n:</string>
+    <string name="btn_nm_save">Guardar</string>
+    <string name="stg_c">c:</string>
+    <string name="stg_d">d:</string>
+    <string name="stg_e">e:</string>
+    <string name="stg_f">f:</string>
+    <string name="stg_b">b:</string>
+    <string name="stg_a">a:</string>
+    <string name="stg_icon">Ok Computer</string>
+    <string name="stg_icon1">PolarPlot 1.0</string>
+</resources>

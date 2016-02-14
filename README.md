@@ -1,2 +1,2 @@
-# PolarPlotApp
-Android App created for learning purpose
+# PolarPlotApp						
+Android App created for learning purpose. 																																																																																										

@@ -1,0 +1,13 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.polarplot10.Container1Fragment"
+    android:background="@drawable/antenapatron"
+    android:foregroundGravity="center">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</FrameLayout>
